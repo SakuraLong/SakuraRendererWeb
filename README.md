@@ -1,4 +1,4 @@
-# sakurarendererweb
+# sakura renderer web
 
 官网的源代码，可以在本地部署查看文档和渲染
 
