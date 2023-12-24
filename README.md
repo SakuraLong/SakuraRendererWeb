@@ -8,6 +8,13 @@
 
 文件命名方式与官网地址路径的最后一个单词相同，如：官网根地址/docu/a下显示的文档，在源代码中保存在a.js下
 
+
+## 官网链接
+See [Sakura Renderer](http://123.249.110.185:8000/).
+
+## 渲染器源代码链接
+See [Sakura Renderer](https://github.com/SakuraLong/sakuraRenderer).
+
 ## Project setup
 ```
 npm install
