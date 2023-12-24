@@ -15,6 +15,10 @@ See [Sakura Renderer](http://123.249.110.185:8000/).
 ## 渲染器源代码链接
 See [Sakura Renderer](https://github.com/SakuraLong/sakuraRenderer).
 
+## 注意
+
+如果需要改变GitHub令牌，需要去src/store/index.js下改变
+
 ## Project setup
 ```
 npm install
